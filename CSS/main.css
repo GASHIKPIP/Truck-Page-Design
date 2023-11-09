@@ -1,0 +1,74 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1, h2, p {
+	font-family: 'Roboto', sans-serif;
+}
+
+body {
+	max-width: 1380px;
+	margin: auto;
+}
+
+.f_h1 {
+	font-size: 40px;
+	color: #a81617;
+}
+
+.model567 {
+	display: block;
+}
+
+.model386 {
+	display: block;
+}
+
+.cards {
+	margin-top: 40px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.line {
+	margin-bottom: 20px;
+	margin-top: 20px;
+	background: #a81617;
+	height: 2px;
+	width: 100px;
+}
+
+.it_p {
+	color: grey;
+	font-size: 18px;
+}
+
+.truck {
+	margin-bottom: 40px;
+	margin-top: 30px;
+	width: 300px;
+}
+
+.truck_1 {
+	margin-bottom: 20px;
+	width: 300px;
+	margin-top: 45px;
+}
+
+.red_button {
+	margin-right: 130px;
+	background: #a81617;
+	height: 50px;
+	width: 150px;
+	border: none;
+}
+
+.red_button:hover {
+	background: black;
+}
+
+.btn_p {
+	color: white;
+	font-size: 20px;
+}
